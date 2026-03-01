@@ -907,6 +907,118 @@
 # [eyeota.com]
 127.0.0.1 eyeota.com
 127.0.0.1 data.eyeota.com
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ДОПОЛНИТЕЛЬНЫЕ ГЛОБАЛЬНЫЕ РЕКЛАМНЫЕ СЕТИ
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+# Google ads additional
+127.0.0.1 adservice.googleusercontent.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 googleads.g.doubleclick.net
+
+# Meta ads CDN
+127.0.0.1 ads.facebook.com
+127.0.0.1 ads.instagram.com
+
+# TikTok ads
+127.0.0.1 ads.tiktok.com
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 log.byteoversea.com
+127.0.0.1 ads.byteoversea.com
+
+# Snapchat ads
+127.0.0.1 ads.snapchat.com
+127.0.0.1 sc-static.net
+
+# Pinterest ads
+127.0.0.1 ads.pinterest.com
+
+# LinkedIn ads
+127.0.0.1 ads.linkedin.com
+127.0.0.1 px.ads.linkedin.com
+
+# Reddit ads
+127.0.0.1 ads.reddit.com
+127.0.0.1 pixel.redditmedia.com
+
+# Spotify ads
+127.0.0.1 audio-ak.spotify.com
+127.0.0.1 adclick.g.doubleclick.net
+
+# Yahoo / Verizon media
+127.0.0.1 ads.yahoo.net
+127.0.0.1 analytics.yahoo.com
+
+# Cloudflare Zaraz tracking
+127.0.0.1 zaraz.cloudflare.com
+
+# Fastly ad tracking
+127.0.0.1 ads.fastly.com
+
+# StackAdapt
+127.0.0.1 stackadapt.com
+
+# ShareASale
+127.0.0.1 shareasale.com
+
+# Rakuten marketing
+127.0.0.1 rakutenmarketing.com
+
+# Taboola additional CDN
+127.0.0.1 images.taboola.com
+
+# Outbrain additional
+127.0.0.1 odb.outbrain.com
+
+# MGID additional
+127.0.0.1 ads.mgid.com
+
+# Bidvertiser
+127.0.0.1 bidvertiser.com
+
+# AdRoll
+127.0.0.1 adroll.com
+127.0.0.1 d.adroll.com
+
+# Revive Adserver
+127.0.0.1 revive-adserver.net
+
+# Epom
+127.0.0.1 epom.com
+
+# Cxense
+127.0.0.1 cxense.com
+
+# Permutive
+127.0.0.1 permutive.com
+
+# Sovrn additional
+127.0.0.1 ap.lijit.com
+
+# Pubnative
+127.0.0.1 pubnative.net
+
+# Ogury
+127.0.0.1 ogury.com
+127.0.0.1 mobile.ogury.io
+
+# Verve
+127.0.0.1 verve.com
+
+# Adikteev
+127.0.0.1 adikteev.com
+
+# Fyber CDN
+127.0.0.1 cdn.fyber.com
+
+# Miniclip ads
+127.0.0.1 ads.miniclip.com
+
+# Unity additional endpoints
+127.0.0.1 data-optout-service.uca.cloud.unity3d.com
+
+# DigitalOcean Spaces used for ads
+127.0.0.1 cdn.digitaloceanspaces.com
 # End of IngoZenz Personal DNS Filter
 # Updated: 2026-03-01 | Total: ~600+ entries
