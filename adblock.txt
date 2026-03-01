@@ -1,57 +1,61 @@
-doubleclick.net
-googlesyndication.com
-googleadservices.com
-adservice.google.com
-adservice.google.ru
+# --- Google Ads & DoubleClick ---
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googlesyndication.com
 
-adnxs.com
-adform.net
-adsrvr.org
-rubiconproject.com
-openx.net
-pubmatic.com
-smartadserver.com
-serving-sys.com
-zedo.com
-taboola.com
-outbrain.com
-criteo.com
-moatads.com
-quantserve.com
-scorecardresearch.com
+# --- Major Ad Exchanges ---
+0.0.0.0 adnxs.com
+0.0.0.0 adform.net
+0.0.0.0 adsrvr.org
+0.0.0.0 rubiconproject.com
+0.0.0.0 openx.net
+0.0.0.0 pubmatic.com
+0.0.0.0 smartadserver.com
+0.0.0.0 serving-sys.com
+0.0.0.0 zedo.com
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 criteo.com
+0.0.0.0 moatads.com
+0.0.0.0 quantserve.com
+0.0.0.0 scorecardresearch.com
 
-appsflyer.com
-adjust.com
-branch.io
-kochava.com
-tenjin.io
-singular.net
-tune.com
+# --- Mobile Attribution / Tracking ---
+0.0.0.0 appsflyer.com
+0.0.0.0 adjust.com
+0.0.0.0 branch.io
+0.0.0.0 kochava.com
+0.0.0.0 singular.net
+0.0.0.0 tenjin.io
+0.0.0.0 tune.com
 
-applovin.com
-unityads.unity3d.com
-ironsrc.com
-chartboost.com
-adcolony.com
-vungle.com
-inmobi.com
+# --- Mobile Ad Networks ---
+0.0.0.0 applovin.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 ironsrc.com
+0.0.0.0 chartboost.com
+0.0.0.0 adcolony.com
+0.0.0.0 vungle.com
+0.0.0.0 inmobi.com
 
-onesignal.com
-pushwoosh.com
-braze.com
+# --- Push & Marketing Automation ---
+0.0.0.0 onesignal.com
+0.0.0.0 pushwoosh.com
+0.0.0.0 braze.com
 
-hotjar.com
-optimizely.com
-newrelic.com
-sentry.io
-bugsnag.com
-mixpanel.com
-segment.com
-amplitude.com
+# --- Analytics & Behavior Tracking ---
+0.0.0.0 hotjar.com
+0.0.0.0 mixpanel.com
+0.0.0.0 segment.com
+0.0.0.0 amplitude.com
+0.0.0.0 newrelic.com
+0.0.0.0 sentry.io
+0.0.0.0 bugsnag.com
+0.0.0.0 optimizely.com
 
-pixel.wp.com
-stats.wp.com
-
-addthis.com
-addtoany.com
-sharethis.com
+# --- Social Tracking Pixels (без блокировки самих соцсетей) ---
+0.0.0.0 connect.facebook.net
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads.twitter.com
