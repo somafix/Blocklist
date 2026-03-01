@@ -1,0 +1,448 @@
+# Title: IngoZenz Personal DNS Filter — Optimized Blocklist
+# Description: Трекеры, аналитика, реклама, майнинг, телеметрия
+# Version: 2026.03.01
+# Format: hosts (127.0.0.1 domain)
+# Compatible: IngoZenz Personal DNS Filter, Pi-hole, AdGuard Home
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [google-analytics.com]
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 analytics.google.com
+
+# [googletagmanager.com]
+127.0.0.1 googletagmanager.com
+127.0.0.1 www.googletagmanager.com
+
+# [googletagservices.com]
+127.0.0.1 googletagservices.com
+
+# [googlesyndication.com]
+127.0.0.1 googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+
+# [doubleclick.net]
+127.0.0.1 doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+
+# [adservice.google.com]
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.ru
+127.0.0.1 adservice.google.de
+127.0.0.1 adservice.google.co.uk
+127.0.0.1 adservice.google.fr
+
+# [app-measurement.com]
+127.0.0.1 app-measurement.com
+127.0.0.1 firebase-settings.crashlytics.com
+
+# [imasdk.googleapis.com]
+127.0.0.1 imasdk.googleapis.com
+
+# [facebook.com trackers]
+127.0.0.1 connect.facebook.net
+127.0.0.1 an.facebook.com
+127.0.0.1 pixel.facebook.com
+127.0.0.1 tr.facebook.com
+127.0.0.1 staticxx.facebook.com
+
+# [microsoft telemetry]
+127.0.0.1 telemetry.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 watson.ppe.telemetry.microsoft.com
+127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 df.telemetry.microsoft.com
+127.0.0.1 reports.wes.df.telemetry.microsoft.com
+127.0.0.1 sqm.df.telemetry.microsoft.com
+127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 compatible.microsoft.com
+
+# [bat.bing.com]
+127.0.0.1 bat.bing.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 bat.r.msn.com
+127.0.0.1 c.bing.com
+
+# [clarity.ms]
+127.0.0.1 clarity.ms
+127.0.0.1 www.clarity.ms
+
+# [amazon tracking]
+127.0.0.1 analytics.amazon.com
+127.0.0.1 fls-na.amazon.com
+127.0.0.1 ir-na.amazon-adsystem.com
+127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 unagi-na.amazon.com
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-eu.amazon.com
+
+# [yandex trackers]
+127.0.0.1 mc.yandex.ru
+127.0.0.1 mc.yandex.com
+127.0.0.1 mc.admetrica.ru
+127.0.0.1 an.yandex.ru
+127.0.0.1 advertising.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 webvisor.org
+127.0.0.1 sonar.yandex.net
+
+# [adfox.ru]
+127.0.0.1 adfox.ru
+127.0.0.1 banners.adfox.ru
+
+# [mail.ru trackers]
+127.0.0.1 top.mail.ru
+127.0.0.1 r.mail.ru
+127.0.0.1 mytracker.io
+
+# [vk.com ads]
+127.0.0.1 ads.vk.com
+
+# [targetix.net]
+127.0.0.1 targetix.net
+
+# [smi2.net]
+127.0.0.1 smi2.net
+127.0.0.1 smi2.ru
+
+# [hotjar.com]
+127.0.0.1 hotjar.com
+127.0.0.1 static.hotjar.com
+127.0.0.1 script.hotjar.com
+127.0.0.1 vars.hotjar.com
+
+# [mixpanel.com]
+127.0.0.1 mixpanel.com
+127.0.0.1 api.mixpanel.com
+127.0.0.1 cdn.mxpnl.com
+
+# [amplitude.com]
+127.0.0.1 amplitude.com
+127.0.0.1 api2.amplitude.com
+127.0.0.1 cdn.amplitude.com
+
+# [fullstory.com]
+127.0.0.1 fullstory.com
+127.0.0.1 rs.fullstory.com
+127.0.0.1 edge.fullstory.com
+
+# [mouseflow.com]
+127.0.0.1 mouseflow.com
+127.0.0.1 cdn.mouseflow.com
+
+# [logrocket.com]
+127.0.0.1 logrocket.com
+127.0.0.1 cdn.logrocket.io
+127.0.0.1 cdn.logrocket.com
+
+# [segment.com]
+127.0.0.1 segment.com
+127.0.0.1 api.segment.com
+127.0.0.1 cdn.segment.com
+127.0.0.1 cdn.segment.io
+
+# [heap.io]
+127.0.0.1 heap.io
+127.0.0.1 heapanalytics.com
+127.0.0.1 cdn.heapanalytics.com
+
+# [crazyegg.com]
+127.0.0.1 crazyegg.com
+127.0.0.1 dnn506yrbagrg.cloudfront.net
+
+# [clicktale.net]
+127.0.0.1 clicktale.net
+127.0.0.1 clicktale.com
+
+# [inspectlet.com]
+127.0.0.1 inspectlet.com
+127.0.0.1 hn.inspectlet.com
+
+# [luckyorange.com]
+127.0.0.1 luckyorange.com
+127.0.0.1 cs.luckyorange.net
+127.0.0.1 cdn.luckyorange.com
+
+# [woopra.com]
+127.0.0.1 woopra.com
+127.0.0.1 static.woopra.com
+
+# [newrelic.com]
+127.0.0.1 bam.nr-data.net
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 nr-data.net
+
+# [fingerprint.com]
+127.0.0.1 fingerprint.com
+127.0.0.1 cdn.fingerprint.com
+127.0.0.1 fpnpmcdn.net
+127.0.0.1 fingerprintjs.com
+
+# [adnxs.com]
+127.0.0.1 adnxs.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 secure.adnxs.com
+
+# [rubiconproject.com]
+127.0.0.1 rubiconproject.com
+127.0.0.1 fastlane.rubiconproject.com
+
+# [openx.net]
+127.0.0.1 openx.net
+127.0.0.1 openx.com
+127.0.0.1 us-u.openx.net
+
+# [pubmatic.com]
+127.0.0.1 pubmatic.com
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 image6.pubmatic.com
+
+# [advertising.com]
+127.0.0.1 advertising.com
+127.0.0.1 adtech.de
+
+# [taboola.com]
+127.0.0.1 taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 nr-data.taboola.com
+
+# [outbrain.com]
+127.0.0.1 outbrain.com
+127.0.0.1 widgets.outbrain.com
+127.0.0.1 amplify.outbrain.com
+127.0.0.1 traffic.outbrain.com
+
+# [criteo.com]
+127.0.0.1 criteo.com
+127.0.0.1 criteo.net
+127.0.0.1 static.criteo.net
+127.0.0.1 sslwidget.criteo.com
+127.0.0.1 dis.criteo.com
+
+# [smartadserver.com]
+127.0.0.1 smartadserver.com
+127.0.0.1 ww251.smartadserver.com
+
+# [casalemedia.com]
+127.0.0.1 casalemedia.com
+
+# [contextweb.com]
+127.0.0.1 contextweb.com
+
+# [indexexchange.com]
+127.0.0.1 indexexchange.com
+127.0.0.1 r.casalemedia.com
+
+# [media.net]
+127.0.0.1 media.net
+127.0.0.1 static.media.net
+
+# [yieldmo.com]
+127.0.0.1 yieldmo.com
+
+# [sovrn.com]
+127.0.0.1 sovrn.com
+127.0.0.1 lijit.com
+
+# [33across.com]
+127.0.0.1 33across.com
+127.0.0.1 ssc.33across.com
+127.0.0.1 ssc-cms.33across.com
+
+# [bidswitch.net]
+127.0.0.1 bidswitch.net
+
+# [triplelift.com]
+127.0.0.1 triplelift.com
+
+# [gumgum.com]
+127.0.0.1 gumgum.com
+127.0.0.1 rtb.gumgum.com
+
+# [teads.tv]
+127.0.0.1 teads.tv
+127.0.0.1 a.teads.tv
+
+# [sharethrough.com]
+127.0.0.1 sharethrough.com
+
+# [revcontent.com]
+127.0.0.1 revcontent.com
+
+# [tremorhub.com]
+127.0.0.1 tremorhub.com
+
+# [spotx.tv]
+127.0.0.1 spotx.tv
+127.0.0.1 spotxchange.com
+127.0.0.1 ads.spotxchange.com
+
+# [springserve.com]
+127.0.0.1 springserve.com
+
+# [scorecardresearch.com]
+127.0.0.1 scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
+
+# [quantserve.com]
+127.0.0.1 quantserve.com
+127.0.0.1 pixel.quantserve.com
+
+# [bluekai.com]
+127.0.0.1 bluekai.com
+127.0.0.1 bkrtx.com
+
+# [rlcdn.com]
+127.0.0.1 rlcdn.com
+
+# [liadm.com]
+127.0.0.1 liadm.com
+127.0.0.1 i.liadm.com
+
+# [onesignal.com]
+127.0.0.1 onesignal.com
+127.0.0.1 cdn.onesignal.com
+
+# [pushwoosh.com]
+127.0.0.1 pushwoosh.com
+127.0.0.1 cp.pushwoosh.com
+
+# [gravitec.net]
+127.0.0.1 gravitec.net
+
+# [notix.io]
+127.0.0.1 notix.io
+
+# [coinhive.com]
+127.0.0.1 coinhive.com
+127.0.0.1 coin-hive.com
+127.0.0.1 cnhv.co
+127.0.0.1 authedmine.com
+
+# [cryptoloot.pro]
+127.0.0.1 cryptoloot.pro
+127.0.0.1 crypto-loot.com
+
+# [webminepool.com]
+127.0.0.1 webminepool.com
+127.0.0.1 minero.cc
+127.0.0.1 jsecoin.com
+127.0.0.1 monerominer.rocks
+127.0.0.1 hashfaster.com
+
+# [apple telemetry]
+127.0.0.1 metrics.apple.com
+127.0.0.1 xp.apple.com
+127.0.0.1 pancake.apple.com
+127.0.0.1 configuration.apple.com
+
+# [teasernet.com]
+127.0.0.1 teasernet.com
+
+# [marketgid.com]
+127.0.0.1 marketgid.com
+127.0.0.1 mgid.com
+127.0.0.1 cdn.mgid.com
+
+# [relap.io]
+127.0.0.1 relap.io
+
+# [begun.ru]
+127.0.0.1 begun.ru
+127.0.0.1 begun.com
+
+# [soloway.ru]
+127.0.0.1 soloway.ru
+
+# [rutarget.ru]
+127.0.0.1 rutarget.ru
+
+# [rambler counters]
+127.0.0.1 c.rambler.ru
+127.0.0.1 cnt.rambler.ru
+
+# [counter.yadro.ru]
+127.0.0.1 counter.yadro.ru
+127.0.0.1 yadro.ru
+
+# [liveinternet.ru]
+127.0.0.1 counter.liveinternet.ru
+
+# [hotlog.ru]
+127.0.0.1 hotlog.ru
+
+# [hits.ru]
+127.0.0.1 hits.ru
+
+# [openstat.net]
+127.0.0.1 openstat.net
+127.0.0.1 openstat.ru
+
+# [tiqcdn.com]
+127.0.0.1 tiqcdn.com
+127.0.0.1 tags.tiqcdn.com
+
+# [usabilla.com]
+127.0.0.1 usabilla.com
+
+# [bounceexchange.com]
+127.0.0.1 bounceexchange.com
+
+# [yotpo.com]
+127.0.0.1 yotpo.com
+127.0.0.1 cdn.yotpo.com
+
+# [forter.com]
+127.0.0.1 forter.com
+
+# [bazaarvoice.com]
+127.0.0.1 bazaarvoice.com
+
+# [adsafeprotected.com]
+127.0.0.1 adsafeprotected.com
+
+# [ads.yahoo.com]
+127.0.0.1 ads.yahoo.com
+
+# [ads.twitter.com]
+127.0.0.1 ads.twitter.com
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 ads-api.twitter.com
+127.0.0.1 syndication.twitter.com
+
+# [picreel.com]
+127.0.0.1 picreel.com
+
+# [gnezdo.ru]
+127.0.0.1 gnezdo.ru
+127.0.0.1 gnezdo.com
+127.0.0.1 gnative.ru
+
+# [adlook.ru]
+127.0.0.1 adlook.ru
+127.0.0.1 adlook.me
+
+# [pixel.wp.com]
+127.0.0.1 pixel.wp.com
+127.0.0.1 stats.wp.com
+
+# [mt.sberbank.ru]
+127.0.0.1 mt.sberbank.ru
+
+# End of IngoZenz Personal DNS Filter
+# Total: ~300 entries | 2026-03-01
