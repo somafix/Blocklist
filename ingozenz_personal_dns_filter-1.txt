@@ -907,118 +907,1088 @@
 # [eyeota.com]
 127.0.0.1 eyeota.com
 127.0.0.1 data.eyeota.com
+
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# ДОПОЛНИТЕЛЬНЫЕ ГЛОБАЛЬНЫЕ РЕКЛАМНЫЕ СЕТИ
+# ДОПОЛНИТЕЛЬНЫЕ РЕКЛАМНЫЕ СЕТИ / AD NETWORKS
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Google ads additional
-127.0.0.1 adservice.googleusercontent.com
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 googleads.g.doubleclick.net
+# [a-ads.com] — анонимная крипто-реклама
+127.0.0.1 a-ads.com
+127.0.0.1 static.a-ads.com
 
-# Meta ads CDN
-127.0.0.1 ads.facebook.com
-127.0.0.1 ads.instagram.com
+# [adbutler.com]
+127.0.0.1 adbutler.com
+127.0.0.1 servedbyadbutler.com
 
-# TikTok ads
-127.0.0.1 ads.tiktok.com
-127.0.0.1 business-api.tiktok.com
-127.0.0.1 analytics.tiktok.com
-127.0.0.1 log.byteoversea.com
-127.0.0.1 ads.byteoversea.com
+# [adzerk.net]
+127.0.0.1 adzerk.net
+127.0.0.1 engine.adzerk.net
+127.0.0.1 static.adzerk.net
 
-# Snapchat ads
-127.0.0.1 ads.snapchat.com
-127.0.0.1 sc-static.net
+# [buysellads.com]
+127.0.0.1 buysellads.com
+127.0.0.1 buysellads.net
+127.0.0.1 srv.buysellads.com
 
-# Pinterest ads
-127.0.0.1 ads.pinterest.com
+# [carbonads.com]
+127.0.0.1 carbonads.com
+127.0.0.1 srv.carbonads.net
+127.0.0.1 cdn4.buysellads.net
 
-# LinkedIn ads
-127.0.0.1 ads.linkedin.com
-127.0.0.1 px.ads.linkedin.com
+# [valueclick.com / conversant]
+127.0.0.1 valueclick.com
+127.0.0.1 valueclick.net
+127.0.0.1 trkn.us
 
-# Reddit ads
-127.0.0.1 ads.reddit.com
-127.0.0.1 pixel.redditmedia.com
+# [undertone.com] — rich media реклама
+127.0.0.1 cdn.undertone.com
 
-# Spotify ads
-127.0.0.1 audio-ak.spotify.com
-127.0.0.1 adclick.g.doubleclick.net
+# [adblade.com]
+127.0.0.1 adblade.com
+127.0.0.1 ads.adblade.com
 
-# Yahoo / Verizon media
-127.0.0.1 ads.yahoo.net
-127.0.0.1 analytics.yahoo.com
+# [adknowledge.com]
+127.0.0.1 adknowledge.com
+127.0.0.1 track.adknowledge.com
 
-# Cloudflare Zaraz tracking
-127.0.0.1 zaraz.cloudflare.com
+# [trafficleader.com]
+127.0.0.1 trafficleader.com
 
-# Fastly ad tracking
-127.0.0.1 ads.fastly.com
+# [yieldmanager.com]
+127.0.0.1 yieldmanager.com
+127.0.0.1 yieldmanager.net
+127.0.0.1 ad.yieldmanager.com
 
-# StackAdapt
-127.0.0.1 stackadapt.com
+# [adlegend.com]
+127.0.0.1 adlegend.com
 
-# ShareASale
-127.0.0.1 shareasale.com
+# [liftoff.io]
+127.0.0.1 liftoff.io
+127.0.0.1 api.liftoff.io
 
-# Rakuten marketing
-127.0.0.1 rakutenmarketing.com
+# [moloco.com]
+127.0.0.1 moloco.com
+127.0.0.1 ads.molocoads.com
 
-# Taboola additional CDN
-127.0.0.1 images.taboola.com
+# [digital.ai / tenjin.com]
+127.0.0.1 tenjin.com
+127.0.0.1 tenjin.io
+127.0.0.1 sdk.tenjin.com
 
-# Outbrain additional
-127.0.0.1 odb.outbrain.com
+# [remerge.io]
+127.0.0.1 remerge.io
+127.0.0.1 a.remerge.io
 
-# MGID additional
-127.0.0.1 ads.mgid.com
+# [smadex.com]
+127.0.0.1 smadex.com
 
-# Bidvertiser
-127.0.0.1 bidvertiser.com
+# [jampp.com]
+127.0.0.1 jampp.com
 
-# AdRoll
+# [bidmachine.io]
+127.0.0.1 bidmachine.io
+127.0.0.1 api.bidmachine.io
+
+# [ogury.com] — мобильная реклама
+127.0.0.1 ogury.com
+127.0.0.1 t.ogury.com
+
+# [applift.com]
+127.0.0.1 applift.com
+127.0.0.1 track.applift.com
+
+# [adquanty.com]
+127.0.0.1 adquanty.com
+
+# [digital turbine / fyber exchange]
+127.0.0.1 exchange.fyber.com
+127.0.0.1 sdk.fyber.com
+
+# [maio.jp]
+127.0.0.1 maio.jp
+127.0.0.1 sdk.maio.jp
+
+# [nend.net] — японская мобильная реклама
+127.0.0.1 nend.net
+127.0.0.1 js.nend.net
+
+# [adgoi.com]
+127.0.0.1 adgoi.com
+
+# [marfeel.com]
+127.0.0.1 marfeel.com
+
+# [shareaholic.com]
+127.0.0.1 shareaholic.com
+127.0.0.1 cdn.shareaholic.com
+
+# [addthis.com]
+127.0.0.1 addthis.com
+127.0.0.1 s7.addthis.com
+
+# [sharethis.com]
+127.0.0.1 sharethis.com
+127.0.0.1 ws.sharethis.com
+127.0.0.1 s.sharethis.com
+
+# [adroll.com]
 127.0.0.1 adroll.com
 127.0.0.1 d.adroll.com
+127.0.0.1 s.adroll.com
+127.0.0.1 fls.doubleclick.net
 
-# Revive Adserver
-127.0.0.1 revive-adserver.net
+# [perfectaudience.com]
+127.0.0.1 perfectaudience.com
 
-# Epom
-127.0.0.1 epom.com
+# [fetchback.com]
+127.0.0.1 fetchback.com
 
-# Cxense
-127.0.0.1 cxense.com
+# [steelhouse.com]
+127.0.0.1 steelhouse.com
+127.0.0.1 shcdn.steelhouse.com
 
-# Permutive
-127.0.0.1 permutive.com
+# [mediav.com] — китайская рекламная сеть
+127.0.0.1 mediav.com
+127.0.0.1 ad.mediav.com
 
-# Sovrn additional
-127.0.0.1 ap.lijit.com
+# [admaster.com.cn]
+127.0.0.1 admaster.com.cn
 
-# Pubnative
-127.0.0.1 pubnative.net
+# [allyes.com]
+127.0.0.1 allyes.com
+127.0.0.1 view.atdmt.com
 
-# Ogury
-127.0.0.1 ogury.com
-127.0.0.1 mobile.ogury.io
+# [atdmt.com]
+127.0.0.1 atdmt.com
+127.0.0.1 img.atdmt.com
 
-# Verve
-127.0.0.1 verve.com
+# [eclick.vn]
+127.0.0.1 eclick.vn
 
-# Adikteev
-127.0.0.1 adikteev.com
+# [admost.com]
+127.0.0.1 admost.com
+127.0.0.1 admost.io
 
-# Fyber CDN
-127.0.0.1 cdn.fyber.com
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ДОПОЛНИТЕЛЬНАЯ АНАЛИТИКА / DATA BROKERS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Miniclip ads
-127.0.0.1 ads.miniclip.com
+# [comscore.com]
+127.0.0.1 comscore.com
+127.0.0.1 beacon.scorecardresearch.com
+127.0.0.1 js.sitestat.com
 
-# Unity additional endpoints
-127.0.0.1 data-optout-service.uca.cloud.unity3d.com
+# [nielsen.com]
+127.0.0.1 imrworldwide.com
+127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 js-sec.indexww.com
 
-# DigitalOcean Spaces used for ads
-127.0.0.1 cdn.digitaloceanspaces.com
+# [statcounter.com]
+127.0.0.1 statcounter.com
+127.0.0.1 c.statcounter.com
+
+# [chartbeat.com]
+127.0.0.1 chartbeat.com
+127.0.0.1 ping.chartbeat.net
+127.0.0.1 static.chartbeat.com
+
+# [parsely.com]
+127.0.0.1 parsely.com
+127.0.0.1 srv.pixel.parsely.com
+127.0.0.1 cdn.parsely.com
+
+# [sailthru.com]
+127.0.0.1 sailthru.com
+127.0.0.1 ak.sail-horizon.com
+
+# [demandbase.com]
+127.0.0.1 demandbase.com
+127.0.0.1 tag.demandbase.com
+
+# [bizible.com]
+127.0.0.1 bizible.com
+127.0.0.1 cdn.bizible.com
+
+# [marketo.com]
+127.0.0.1 munchkin.marketo.net
+127.0.0.1 app.marketo.com
+
+# [hubspot.com]
+127.0.0.1 track.hubspot.com
+127.0.0.1 js.hsadspixel.net
+127.0.0.1 js.hscollectedforms.net
+127.0.0.1 js.hs-analytics.net
+127.0.0.1 js.hubspotfeedback.com
+
+# [pardot.com / salesforce]
+127.0.0.1 pardot.com
+127.0.0.1 pi.pardot.com
+127.0.0.1 go.pardot.com
+
+# [eloqua.com]
+127.0.0.1 eloqua.com
+127.0.0.1 img.en25.com
+
+# [coremetrics.com]
+127.0.0.1 coremetrics.com
+127.0.0.1 data.coremetrics.com
+
+# [omtrdc.net / adobe analytics]
+127.0.0.1 omtrdc.net
+127.0.0.1 2o7.net
+127.0.0.1 everesttech.net
+127.0.0.1 adobedtm.com
+127.0.0.1 demdex.net
+
+# [kissmetrics.com]
+127.0.0.1 kissmetrics.com
+127.0.0.1 doug1izaerwt3.cloudfront.net
+
+# [intercom.io]
+127.0.0.1 intercom.io
+127.0.0.1 js.intercomcdn.com
+127.0.0.1 api-iam.intercom.io
+127.0.0.1 nexus-websocket-a.intercom.io
+
+# [pendo.io]
+127.0.0.1 pendo.io
+127.0.0.1 cdn.pendo.io
+127.0.0.1 data.pendo.io
+
+# [gainsight.com]
+127.0.0.1 gainsight.com
+127.0.0.1 web-sdk.aptrinsic.com
+
+# [optimizely.com]
+127.0.0.1 optimizely.com
+127.0.0.1 cdn.optimizely.com
+127.0.0.1 logx.optimizely.com
+
+# [vwo.com] — A/B тестинг с трекингом
+127.0.0.1 vwo.com
+127.0.0.1 dev.visualwebsiteoptimizer.com
+127.0.0.1 visualwebsiteoptimizer.com
+
+# [convertexperiments.com]
+127.0.0.1 convertexperiments.com
+
+# [ab180.co]
+127.0.0.1 ab180.co
+
+# [launchdarkly.com]
+127.0.0.1 clientstream.launchdarkly.com
+127.0.0.1 events.launchdarkly.com
+
+# [survicate.com]
+127.0.0.1 survicate.com
+127.0.0.1 survey.survicate.com
+
+# [qualaroo.com]
+127.0.0.1 qualaroo.com
+127.0.0.1 s.qualaroo.com
+
+# [delighted.com]
+127.0.0.1 delighted.com
+127.0.0.1 d.delighted.com
+
+# [medallia.com]
+127.0.0.1 medallia.com
+127.0.0.1 resources.digital.medallia.com
+
+# [userzoom.com]
+127.0.0.1 userzoom.com
+
+# [contentsquare.com]
+127.0.0.1 contentsquare.com
+127.0.0.1 t.contentsquare.net
+
+# [glassbox.com]
+127.0.0.1 glassbox.com
+
+# [quantum metric]
+127.0.0.1 quantummetric.com
+127.0.0.1 cdn.quantummetric.com
+
+# [dynatrace.com]
+127.0.0.1 js-cdn.dynatrace.com
+
+# [datadog-browser-agent]
+127.0.0.1 rum.browser-intake-datadoghq.com
+127.0.0.1 rum.browser-intake-datadoghq.eu
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ТЕЛЕФОННЫЙ СПАМ / ROBOCALL / VOIP ФРОД
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [nextiva spam]
+127.0.0.1 spam.nextiva.com
+
+# [tcpa compliant spammers]
+127.0.0.1 leadid.com
+127.0.0.1 api.leadid.com
+127.0.0.1 certs.trustedform.com
+
+# [trustedform — lead gen фрод]
+127.0.0.1 trustedform.com
+127.0.0.1 cdn.trustedform.com
+
+# [jornaya.com — lead tracking]
+127.0.0.1 jornaya.com
+127.0.0.1 api.leadid.com
+127.0.0.1 pxl.jornaya.com
+
+# [phonexa.com]
+127.0.0.1 phonexa.com
+127.0.0.1 track.phonexa.com
+
+# [ringba.com] — call tracking
+127.0.0.1 ringba.com
+127.0.0.1 b.ringba.com
+
+# [callrail.com] — call tracking/surveillance
+127.0.0.1 callrail.com
+127.0.0.1 cdn.callrail.com
+
+# [invoca.com]
+127.0.0.1 invoca.com
+127.0.0.1 solutions.invoca.com
+
+# [dialogtech.com]
+127.0.0.1 dialogtech.com
+
+# [marchex.com]
+127.0.0.1 marchex.com
+
+# [retreaver.com]
+127.0.0.1 retreaver.com
+
+# [teldrip.com]
+127.0.0.1 teldrip.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ПОРНО-РЕКЛАМА / ADULT AD NETWORKS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [exoclick.com] — уже есть, дополнительные субдомены
+127.0.0.1 track.exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 adserver.juicyads.com
+
+# [trafficjunky.net] — дополнительные субдомены
+127.0.0.1 cdn.trafficjunky.net
+127.0.0.1 res.trafficjunky.net
+
+# [ero-advertising.com] — уже есть
+127.0.0.1 service.ero-advertising.com
+
+# [traffichaus.com]
+127.0.0.1 traffichaus.com
+
+# [adultforce.com]
+127.0.0.1 adultforce.com
+
+# [adspyglass.com]
+127.0.0.1 adspyglass.com
+
+# [clicksor.com]
+127.0.0.1 clicksor.com
+127.0.0.1 db3.clicksor.com
+
+# [xxxad.net]
+127.0.0.1 xxxad.net
+
+# [traffic-media.co]
+127.0.0.1 traffic-media.co
+
+# [contentabc.com]
+127.0.0.1 contentabc.com
+127.0.0.1 static.contentabc.com
+
+# [cdn77.org porn CDN]
+127.0.0.1 c.szstats.globalstat.info
+
+# [advast.net]
+127.0.0.1 advast.net
+
+# [popunder.ru]
+127.0.0.1 popunder.ru
+
+# [ownads.net]
+127.0.0.1 ownads.net
+
+# [pornvertiser.com]
+127.0.0.1 pornvertiser.com
+
+# [ad4x.com]
+127.0.0.1 ad4x.com
+127.0.0.1 static.ad4x.com
+
+# [etargetnet.com]
+127.0.0.1 etargetnet.com
+
+# [traffichunt.com]
+127.0.0.1 traffichunt.com
+
+# [adsexplicit.com]
+127.0.0.1 adsexplicit.com
+
+# [clickaine.com]
+127.0.0.1 clickaine.com
+
+# [hilltopads.com]
+127.0.0.1 hilltopads.com
+
+# [rollerads.com]
+127.0.0.1 rollerads.com
+127.0.0.1 cdn.rollerads.com
+
+# [richpush.co]
+127.0.0.1 richpush.co
+
+# [kadam.net] — рунет adult трафик
+127.0.0.1 kadam.net
+127.0.0.1 hit.kadam.net
+
+# [trafmag.com]
+127.0.0.1 trafmag.com
+
+# [adxxx.com]
+127.0.0.1 adxxx.com
+
+# [sweetim.com]
+127.0.0.1 sweetim.com
+
+# [plugplug.com]
+127.0.0.1 plugplug.com
+
+# [trafficstars.com]
+127.0.0.1 trafficstars.com
+127.0.0.1 assets.trafficstars.com
+
+# [zeropark.com]
+127.0.0.1 zeropark.com
+
+# [myads.com]
+127.0.0.1 myads.com
+
+# [adhitz.com]
+127.0.0.1 adhitz.com
+
+# [trafficholder.com]
+127.0.0.1 trafficholder.com
+127.0.0.1 tpc.trafficholder.com
+
+# [ad-maven.com]
+127.0.0.1 ad-maven.com
+127.0.0.1 go.ad-maven.com
+127.0.0.1 cdn.ad-maven.com
+
+# [a-ads.com adult]
+127.0.0.1 s.a-ads.com
+
+# [go2monetize.com]
+127.0.0.1 go2monetize.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# EMAIL ТРЕКЕРЫ / NEWSLETTER SPAM ПИКСЕЛИ
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [mailgun.com tracking]
+127.0.0.1 email.mailgun.com
+127.0.0.1 rs6.net
+
+# [constantcontact.com]
+127.0.0.1 r20.rs6.net
+127.0.0.1 click.constantcontact.com
+
+# [campaignmonitor.com]
+127.0.0.1 track.createsend.com
+127.0.0.1 click.e.campaignmonitor.com
+
+# [drip.com]
+127.0.0.1 track.drip.com
+127.0.0.1 cdn.drip.com
+
+# [activecampaign.com]
+127.0.0.1 track.activecampaign.com
+127.0.0.1 trackcmp.net
+
+# [mailchimp.com]
+127.0.0.1 cdn-images.mailchimp.com
+127.0.0.1 us1.campaign-archive.com
+127.0.0.1 chimpstatic.com
+
+# [aweber.com]
+127.0.0.1 aweber.com
+127.0.0.1 click.aweber.com
+
+# [getresponse.com]
+127.0.0.1 getresponse.com
+127.0.0.1 s.getresponse.com
+
+# [sendinblue.com / brevo]
+127.0.0.1 sendinblue.com
+127.0.0.1 click.brevo.com
+
+# [omnisend.com]
+127.0.0.1 omnisend.com
+127.0.0.1 track.omnisend.com
+
+# [mailjet.com]
+127.0.0.1 mjt.lu
+127.0.0.1 links.mailjet.com
+
+# [postmark.com]
+127.0.0.1 pstmrk.it
+127.0.0.1 r.pstmrk.it
+
+# [yesware.com]
+127.0.0.1 yesware.com
+127.0.0.1 t.yesware.com
+
+# [streak.com]
+127.0.0.1 mailfoogae.appspot.com
+
+# [saleshandy.com]
+127.0.0.1 saleshandy.com
+127.0.0.1 track.saleshandy.com
+
+# [mailtrack.io]
+127.0.0.1 mailtrack.io
+127.0.0.1 mltrk.io
+
+# [getnotify.com]
+127.0.0.1 getnotify.com
+
+# [emailopen.com]
+127.0.0.1 emailopen.com
+
+# [sendpulse.com]
+127.0.0.1 sendpulse.com
+127.0.0.1 spclick.io
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ФИШИНГ / СКАМ / FAKE TECH SUPPORT
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [tech support scam patterns]
+127.0.0.1 support-windows-help.com
+127.0.0.1 microsoft-alert.com
+127.0.0.1 windowsdefender-alert.com
+127.0.0.1 virus-alert.net
+127.0.0.1 pc-security-warning.com
+
+# [fake antivirus/scareware CDNs]
+127.0.0.1 install.track.b2.getbetter.online
+127.0.0.1 downloadit.click
+127.0.0.1 get.adware.net
+
+# [redirect chains spam]
+127.0.0.1 go.redirectingat.com
+127.0.0.1 prf.hn
+127.0.0.1 api.skimresources.com
+127.0.0.1 js.skimresources.com
+127.0.0.1 track.skimresources.com
+
+# [viglink.com — affiliate redirect spam]
+127.0.0.1 viglink.com
+127.0.0.1 api2.viglink.com
+127.0.0.1 redirect.viglink.com
+
+# [impact.com — affiliate tracking]
+127.0.0.1 click.linksynergy.com
+127.0.0.1 ad.linksynergy.com
+
+# [cj.com — commissionjunction]
+127.0.0.1 emjcd.com
+127.0.0.1 cj.com
+127.0.0.1 aj.cj.com
+
+# [shareasale.com]
+127.0.0.1 shareasale.com
+127.0.0.1 www.shareasale.com
+
+# [awin.com]
+127.0.0.1 awin1.com
+
+# [zanox.com]
+127.0.0.1 zanox.com
+127.0.0.1 ad.zanox.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# PUSH-УВЕДОМЛЕНИЯ / WEB PUSH SPAM
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [sendbird.com]
+127.0.0.1 push.sendbird.com
+
+# [pusher.com]
+127.0.0.1 stats.pusher.com
+
+# [pushcrew.com]
+127.0.0.1 pushcrew.com
+127.0.0.1 cdn.pushcrew.com
+
+# [izooto.com]
+127.0.0.1 izooto.com
+127.0.0.1 cdn.izooto.com
+
+# [subscribers.com]
+127.0.0.1 subscribers.com
+127.0.0.1 cdn.subscribers.com
+
+# [webpushr.com]
+127.0.0.1 webpushr.com
+127.0.0.1 i.webpushr.com
+
+# [sendpush.net]
+127.0.0.1 sendpush.net
+
+# [pushengage.com]
+127.0.0.1 pushengage.com
+127.0.0.1 clientpush.pushengage.com
+
+# [aimtell.com]
+127.0.0.1 aimtell.com
+127.0.0.1 cdn.aimtell.com
+
+# [viperchill push]
+127.0.0.1 push-push.net
+
+# [dashpush.com]
+127.0.0.1 dashpush.com
+
+# [feedify.net]
+127.0.0.1 feedify.net
+127.0.0.1 cdn.feedify.net
+
+# [goroost.com]
+127.0.0.1 goroost.com
+
+# [swiftype.com push]
+127.0.0.1 push.swiftype.com
+
+# [notifyninja.com]
+127.0.0.1 notifyninja.com
+
+# [truepush.com]
+127.0.0.1 truepush.com
+127.0.0.1 cdn.truepush.com
+
+# [vizury.com]
+127.0.0.1 vizury.com
+127.0.0.1 platform.vizury.com
+
+# [engagefully.com]
+127.0.0.1 engagefully.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# FINGERPRINTING / CANVAS / BROWSER FINGERPRINT
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [iovation.com]
+127.0.0.1 iovation.com
+127.0.0.1 ci.iovation.com
+127.0.0.1 api.iovation.com
+
+# [threatmetrix.com]
+127.0.0.1 threatmetrix.com
+127.0.0.1 h.online-metrix.net
+
+# [lexisnexis risk]
+127.0.0.1 s.online-metrix.net
+
+# [seon.io]
+127.0.0.1 seon.io
+127.0.0.1 cdn.seon.io
+
+# [neustar.biz]
+127.0.0.1 neustar.biz
+127.0.0.1 data.neustar.biz
+
+# [maxmind.com]
+127.0.0.1 device.maxmind.com
+
+# [whiteops.com / human.security]
+127.0.0.1 whiteops.com
+127.0.0.1 px.ads.linkedin.com
+
+# [castle.io]
+127.0.0.1 castle.io
+127.0.0.1 d.castle.io
+
+# [signifyd.com]
+127.0.0.1 signifyd.com
+127.0.0.1 cdn-scripts.signifyd.com
+
+# [riskified.com]
+127.0.0.1 riskified.com
+127.0.0.1 beacon.riskified.com
+
+# [kount.com]
+127.0.0.1 kount.com
+127.0.0.1 ssl.kaptcha.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# РУНЕТ МУСОР / ДОПОЛНИТЕЛЬНЫЕ RU ТРЕКЕРЫ
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [advert.ru]
+127.0.0.1 advert.ru
+127.0.0.1 banner.advert.ru
+
+# [advertur.ru]
+127.0.0.1 advertur.ru
+
+# [rmbn.ru]
+127.0.0.1 rmbn.ru
+127.0.0.1 img.rmbn.ru
+
+# [advmaker.ru]
+127.0.0.1 advmaker.ru
+127.0.0.1 advmaker.net
+
+# [adtech.ru]
+127.0.0.1 adtech.ru
+
+# [actionads.ru]
+127.0.0.1 actionads.ru
+127.0.0.1 ad.actionads.ru
+
+# [novoads.ru]
+127.0.0.1 novoads.ru
+
+# [g.doubleclick.net]
+127.0.0.1 g.doubleclick.net
+
+# [rotaban.ru]
+127.0.0.1 rotaban.ru
+127.0.0.1 static.rotaban.ru
+
+# [adloox.com]
+127.0.0.1 adloox.com
+127.0.0.1 j.adloox.com
+
+# [weborama.fr]
+127.0.0.1 weborama.fr
+127.0.0.1 pixel.weborama.fr
+127.0.0.1 weborama.com
+127.0.0.1 pixel.weborama.com
+
+# [gemius.pl]
+127.0.0.1 gemius.pl
+127.0.0.1 hit.gemius.pl
+127.0.0.1 gemius.com
+
+# [sentrysdk.com / sentry.io]
+127.0.0.1 ingest.sentry.io
+127.0.0.1 o0.ingest.sentry.io
+
+# [splunk rum]
+127.0.0.1 rum-ingest.us1.signalfx.com
+
+# [yottos.com]
+127.0.0.1 yottos.com
+127.0.0.1 srv.yottos.com
+
+# [advertise.ru]
+127.0.0.1 advertise.ru
+
+# [imho.ru]
+127.0.0.1 imho.ru
+127.0.0.1 banner.imho.ru
+
+# [getintent.com]
+127.0.0.1 getintent.com
+127.0.0.1 px.adhigh.net
+
+# [adhigh.net]
+127.0.0.1 adhigh.net
+
+# [buzzoola.com]
+127.0.0.1 buzzoola.com
+127.0.0.1 cdn.buzzoola.com
+
+# [avito.ru trackers]
+127.0.0.1 pg.avito.ru
+
+# [clickhouse analytics beacon]
+127.0.0.1 analytics.devhive.io
+
+# [beeline ads]
+127.0.0.1 ad.beeline.ru
+
+# [mts ads]
+127.0.0.1 ad.mts.ru
+
+# [megafon ads]
+127.0.0.1 ad.megafon.ru
+127.0.0.1 targetads.megafon.ru
+
+# [tele2 ads]
+127.0.0.1 ad.tele2.ru
+
+# [sbermarketing]
+127.0.0.1 ads.sber.ru
+127.0.0.1 pixel.sber.ru
+
+# [gazprombank ads]
+127.0.0.1 ads.gazprombank.ru
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ДОПОЛНИТЕЛЬНАЯ ТЕЛЕМЕТРИЯ / OS TELEMETRY
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [microsoft дополнительно]
+127.0.0.1 checkappexec.microsoft.com
+127.0.0.1 smartscreen.microsoft.com
+127.0.0.1 smartscreen-prod.microsoft.com
+127.0.0.1 cx.atdmt.com
+127.0.0.1 fe3.delivery.mp.microsoft.com
+127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
+127.0.0.1 v10.events.data.microsoft.com
+127.0.0.1 v10.vortex-win.data.microsoft.com
+127.0.0.1 v20.events.data.microsoft.com
+127.0.0.1 win10.ipv6.microsoft.com
+127.0.0.1 www.msftconnecttest.com
+127.0.0.1 sls.update.microsoft.com.akadns.net
+127.0.0.1 statsfe2.ws.microsoft.com
+127.0.0.1 browser.pipe.aria.microsoft.com
+
+# [apple дополнительно]
+127.0.0.1 iadsdk.apple.com
+127.0.0.1 iad.apple.com
+127.0.0.1 feedback.apple.com
+127.0.0.1 radarsubmissions.apple.com
+
+# [google дополнительно]
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 gstaticadssl.l.google.com
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 adservices.google.com
+
+# [mozilla telemetry]
+127.0.0.1 telemetry.mozilla.org
+127.0.0.1 incoming.telemetry.mozilla.org
+127.0.0.1 data.telemetry.mozilla.org
+127.0.0.1 fxa-content-server-func.stage.mozaws.net
+
+# [ubuntu / canonical telemetry]
+127.0.0.1 metrics.ubuntu.com
+127.0.0.1 popcon.ubuntu.com
+127.0.0.1 daisy.ubuntu.com
+127.0.0.1 motd.ubuntu.com
+
+# [snap telemetry]
+127.0.0.1 api.snapcraft.io
+127.0.0.1 search.apps.ubuntu.com
+
+# [unity engine telemetry]
+127.0.0.1 analytics.cloud.unity3d.com
+127.0.0.1 config.uca.cloud.unity3d.com
+127.0.0.1 perf-events.cloud.unity3d.com
+
+# [epic games telemetry]
+127.0.0.1 tracking.epicgames.com
+
+# [steam/valve telemetry]
+127.0.0.1 ads.steampowered.com
+127.0.0.1 googleads.g.doubleclick.net
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# VPN / PROXY LEAK TRACKERS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [hotspot shield ads]
+127.0.0.1 ad.adf.ly
+127.0.0.1 static.adf.ly
+
+# [adf.ly]
+127.0.0.1 adf.ly
+
+# [sh.st]
+127.0.0.1 sh.st
+
+# [ow.ly tracking]
+127.0.0.1 ow.ly
+
+# [bit.ly analytics — партнёрский трекинг]
+127.0.0.1 j.mp
+
+# [bc.vc]
+127.0.0.1 bc.vc
+
+# [shorte.st]
+127.0.0.1 shorte.st
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# CRYPTO / NFT / WEB3 SCAM ADS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [coinzilla.com] — крипто рекламная сеть
+127.0.0.1 coinzilla.com
+127.0.0.1 cdn.coinzilla.io
+
+# [cointraffic.io]
+127.0.0.1 cointraffic.io
+127.0.0.1 static.cointraffic.io
+
+# [bitmedia.io]
+127.0.0.1 bitmedia.io
+127.0.0.1 static.bitmedia.io
+
+# [coinad.com]
+127.0.0.1 coinad.com
+127.0.0.1 ads.coinad.com
+
+# [cryptoads.com]
+127.0.0.1 cryptoads.com
+
+# [adex.network]
+127.0.0.1 adex.network
+
+# [coinsnap.io]
+127.0.0.1 coinsnap.io
+
+# [blockchain-ads.com]
+127.0.0.1 blockchain-ads.com
+
+# [web3ads.net]
+127.0.0.1 web3ads.net
+
+# [adshares.net]
+127.0.0.1 adshares.net
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# SOCIAL MEDIA TRACKERS (дополнительно)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [linkedin tracking]
+127.0.0.1 snap.licdn.com
+127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 platform.linkedin.com
+127.0.0.1 analytics.pointdrive.linkedin.com
+
+# [tiktok ads]
+127.0.0.1 ads.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 log.tiktokv.com
+127.0.0.1 mon.tiktokv.com
+127.0.0.1 metrics.byteoversea.com
+127.0.0.1 log-va.tiktokv.com
+
+# [snapchat ads]
+127.0.0.1 sc-static.net
+127.0.0.1 tr.snapchat.com
+127.0.0.1 ads.snapchat.com
+
+# [pinterest ads]
+127.0.0.1 widgets.pinterest.com
+127.0.0.1 ads.pinterest.com
+
+# [reddit ads]
+127.0.0.1 ads-api.reddit.com
+127.0.0.1 alb.reddit.com
+
+# [quora ads]
+127.0.0.1 qsstats.quora.com
+
+# [telegram ads/tracking]
+127.0.0.1 t.me.tracking
+127.0.0.1 contest.telegram.org
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ПРОЧИЕ / MISC
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [disqus tracking]
+127.0.0.1 disqus.com
+127.0.0.1 disqusads.com
+127.0.0.1 a.disquscdn.com
+
+# [livechat tracking]
+127.0.0.1 cdn.livechatinc.com
+127.0.0.1 stats.livechatinc.com
+
+# [zendesk tracking]
+127.0.0.1 static.zdassets.com
+
+# [drift.com]
+127.0.0.1 drift.com
+127.0.0.1 js.drift.com
+127.0.0.1 event.drift.com
+
+# [tawk.to]
+127.0.0.1 va.tawk.to
+127.0.0.1 embed.tawk.to
+
+# [olark.com]
+127.0.0.1 olark.com
+127.0.0.1 static.olark.com
+
+# [crisp.chat]
+127.0.0.1 client.crisp.chat
+127.0.0.1 settings.crisp.chat
+
+# [smartsupp.com]
+127.0.0.1 smartsupp.com
+127.0.0.1 visitor.smartsupp.com
+
+# [freshchat.com tracking]
+127.0.0.1 snippets.freshchat.com
+127.0.0.1 wchat.freshchat.com
+
+# [zopim.com / zendesk chat]
+127.0.0.1 zopim.com
+127.0.0.1 v2.zopim.com
+
+# [accesstrade.net]
+127.0.0.1 accesstrade.net
+
+# [tradetracker.com]
+127.0.0.1 tradetracker.com
+127.0.0.1 ts.tradetracker.net
+
+# [affilinet.com]
+127.0.0.1 affilinet.com
+127.0.0.1 static.affili.net
+
+# [webgains.com]
+127.0.0.1 webgains.com
+127.0.0.1 track.webgains.com
+
+# [conversantmedia trackers extra]
+127.0.0.1 fastclick.net
+127.0.0.1 s.fastclick.net
+
+# [undertone extra]
+127.0.0.1 u.openx.net
+
+# [flashtalking.com]
+127.0.0.1 flashtalking.com
+127.0.0.1 servedby.flashtalking.com
+
+# [sizmek.com]
+127.0.0.1 sizmek.com
+127.0.0.1 ds.serving-sys.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 secure-ds.serving-sys.com
+
+# [mediaplex.com]
+127.0.0.1 mediaplex.com
+127.0.0.1 oasc01.247realmedia.com
+
+# [247realmedia.com]
+127.0.0.1 247realmedia.com
+
+# [googleads.g.doubleclick.net extra]
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 www1.doubleclick.net
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # End of IngoZenz Personal DNS Filter
-# Updated: 2026-03-01 | Total: ~600+ entries
+# Updated: 2026-03-01 | Total: ~1200+ entries
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
