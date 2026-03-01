@@ -446,3 +446,467 @@
 
 # End of IngoZenz Personal DNS Filter
 # Total: ~300 entries | 2026-03-01
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ANDROID IN-APP ADS / POPUPS / GARBAGE
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [admob.com] — главная реклама в Android приложениях
+127.0.0.1 admob.com
+127.0.0.1 googleadmob.com
+127.0.0.1 r.admob.com
+127.0.0.1 mmv.admob.com
+127.0.0.1 ads.admob.com
+127.0.0.1 a.admob.com
+127.0.0.1 mobile-gtm.admob.com
+
+# [unity ads] — реклама в мобильных играх
+127.0.0.1 unityads.unity3d.com
+127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 cdn.unityads.unity3d.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 publisher-event.unityads.unity3d.com
+
+# [applovin.com] — реклама в Android/iOS приложениях
+127.0.0.1 applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 cdn1.applovin.com
+127.0.0.1 cdn2.applovin.com
+127.0.0.1 ms.applovin.com
+127.0.0.1 eventtracking.applovin.com
+
+# [mopub.com] — Twitter/X мобильная реклама
+127.0.0.1 mopub.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 s.mopub.com
+
+# [chartboost.com] — реклама в играх
+127.0.0.1 chartboost.com
+127.0.0.1 live.chartboost.com
+127.0.0.1 asset.chartboost.com
+127.0.0.1 c.chartboost.com
+
+# [ironsource.com] — мобильная игровая реклама
+127.0.0.1 ironsource.com
+127.0.0.1 outcome.ironsource.com
+127.0.0.1 di.ironsource.com
+127.0.0.1 img.ironsource.com
+127.0.0.1 sm.ironsource.com
+127.0.0.1 od-cdn.ironsource.com
+
+# [vungle.com] — видеореклама в приложениях
+127.0.0.1 vungle.com
+127.0.0.1 cdn-lb.vungle.com
+127.0.0.1 ads.vungle.com
+127.0.0.1 events.vungle.com
+127.0.0.1 api.vungle.com
+
+# [inmobi.com] — мобильная рекламная сеть
+127.0.0.1 inmobi.com
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 c.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 api.inmobi.com
+127.0.0.1 cdn.inmobi.com
+
+# [startapp.com] — агрессивная мобильная реклама
+127.0.0.1 startapp.com
+127.0.0.1 analytics.startapp.com
+127.0.0.1 cdn.startapp.com
+
+# [tapjoy.com] — офферная реклама в приложениях
+127.0.0.1 tapjoy.com
+127.0.0.1 ws.tapjoy.com
+127.0.0.1 r.tapjoy.com
+127.0.0.1 api.tapjoy.com
+127.0.0.1 ads.tapjoy.com
+127.0.0.1 analytics.tapjoy.com
+
+# [adcolony.com] — видеореклама в мобильных играх
+127.0.0.1 adcolony.com
+127.0.0.1 ads.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 wd.adcolony.com
+
+# [smaato.com] — мобильная рекламная платформа
+127.0.0.1 smaato.com
+127.0.0.1 soma.smaato.com
+127.0.0.1 ads.smaato.com
+
+# [millennialmedia.com] — мобильная реклама
+127.0.0.1 millennialmedia.com
+127.0.0.1 ads.millennialmedia.com
+127.0.0.1 mads.millennialmedia.com
+
+# [leadbolt.com] — агрессивная мобильная реклама
+127.0.0.1 leadbolt.com
+127.0.0.1 target.leadbolt.com
+127.0.0.1 t.leadbolt.com
+
+# [mobvista.com / mintegral.com]
+127.0.0.1 mobvista.com
+127.0.0.1 mintegral.com
+127.0.0.1 cdn-adn.rayjump.com
+127.0.0.1 cdn-adn-https.rayjump.com
+127.0.0.1 sg-mtrack.mintegral.com
+127.0.0.1 track.mintegral.com
+
+# [digitalturbine.com / fyber.com] — оффервол реклама
+127.0.0.1 digitalturbine.com
+127.0.0.1 fyber.com
+127.0.0.1 inner-active.mobi
+127.0.0.1 ads.inner-active.mobi
+
+# [loopme.com] — мобильная видеореклама
+127.0.0.1 loopme.com
+127.0.0.1 i.loopme.com
+127.0.0.1 tk.loopme.com
+
+# [aerserv.com]
+127.0.0.1 aerserv.com
+127.0.0.1 ads.aerserv.com
+
+# [superawesome.com] — реклама в детских приложениях
+127.0.0.1 superawesome.com
+127.0.0.1 ads.superawesome.tv
+
+# [kidoz.net] — реклама в детских играх
+127.0.0.1 kidoz.net
+
+# [revmob.com] — мобильная реклама
+127.0.0.1 revmob.com
+127.0.0.1 ads.revmob.com
+127.0.0.1 dl.revmob.com
+
+# [admarvel.com]
+127.0.0.1 admarvel.com
+127.0.0.1 a.admarvel.com
+
+# [ymobile.com]
+127.0.0.1 ymobile.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ANDROID TRACKING SDKs / ATTRIBUTION
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [appsflyer.com] — трекинг установок приложений
+127.0.0.1 appsflyer.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 gcdsdk.appsflyer.com
+127.0.0.1 launches.appsflyer.com
+127.0.0.1 api.appsflyer.com
+127.0.0.1 inappevent.appsflyer.com
+127.0.0.1 impression.appsflyer.com
+
+# [adjust.com] — мобильный трекинг
+127.0.0.1 adjust.com
+127.0.0.1 app.adjust.com
+127.0.0.1 s2s.adjust.com
+
+# [branch.io] — диплинкинг и трекинг
+127.0.0.1 branch.io
+127.0.0.1 api2.branch.io
+127.0.0.1 cdn.branch.io
+
+# [kochava.com] — attribution SDK
+127.0.0.1 kochava.com
+127.0.0.1 control.kochava.com
+127.0.0.1 track.kochava.com
+
+# [singular.net]
+127.0.0.1 singular.net
+127.0.0.1 sdk-api.singular.net
+
+# [flurry.com] — Yahoo мобильная аналитика
+127.0.0.1 flurry.com
+127.0.0.1 data.flurry.com
+127.0.0.1 metrics.flurry.com
+127.0.0.1 crash.flurry.com
+
+# [fabric.io / crashlytics.com]
+127.0.0.1 fabric.io
+127.0.0.1 crashlytics.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 e.crashlytics.com
+
+# [bugsnag.com] — crash reporting
+127.0.0.1 bugsnag.com
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+
+# [firebase.google.com] — Google аналитика для Android
+127.0.0.1 firebaseinstallations.googleapis.com
+127.0.0.1 firebaseremoteconfig.googleapis.com
+127.0.0.1 fcm.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
+
+# [clevertap.com] — мобильный маркетинг
+127.0.0.1 clevertap.com
+127.0.0.1 wzrkt.com
+127.0.0.1 eu1.clevertap.com
+
+# [leanplum.com]
+127.0.0.1 leanplum.com
+127.0.0.1 api.leanplum.com
+
+# [airship.com / urban airship]
+127.0.0.1 airship.com
+127.0.0.1 device-api.urbanairship.com
+127.0.0.1 combine.urbanairship.com
+
+# [braze.com] — мобильный CRM/аналитика
+127.0.0.1 braze.com
+127.0.0.1 sdk.fra-01.braze.eu
+127.0.0.1 sdk.iad-03.braze.com
+
+# [moengage.com]
+127.0.0.1 moengage.com
+127.0.0.1 sdk-01.moengage.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# POPUP / INTERSTITIAL / REDIRECT SPAM
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [popads.net]
+127.0.0.1 popads.net
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+
+# [popcash.net]
+127.0.0.1 popcash.net
+
+# [propellerads.com]
+127.0.0.1 propellerads.com
+127.0.0.1 cdn.propellerads.com
+127.0.0.1 ppcnt.com
+
+# [adsterra.com]
+127.0.0.1 adsterra.com
+127.0.0.1 go.oclasrv.com
+127.0.0.1 hb.inarticle.com
+
+# [hilltopads.net]
+127.0.0.1 hilltopads.net
+127.0.0.1 cdn.hilltopads.net
+
+# [trafficjunky.com] — попандеры/редиректы
+127.0.0.1 trafficjunky.com
+127.0.0.1 ads.trafficjunky.net
+
+# [clickadu.com]
+127.0.0.1 clickadu.com
+
+# [evadav.com]
+127.0.0.1 evadav.com
+
+# [adcash.com]
+127.0.0.1 adcash.com
+127.0.0.1 static.adcash.com
+127.0.0.1 track.adcash.com
+
+# [ero-advertising.com]
+127.0.0.1 ero-advertising.com
+
+# [plugrush.com]
+127.0.0.1 plugrush.com
+
+# [juicyads.com]
+127.0.0.1 juicyads.com
+127.0.0.1 a.juicyads.com
+
+# [exoclick.com]
+127.0.0.1 exoclick.com
+127.0.0.1 static.exoclick.com
+127.0.0.1 syndication.exoclick.com
+
+# [trafficfactory.biz]
+127.0.0.1 trafficfactory.biz
+
+# [zedo.com]
+127.0.0.1 zedo.com
+127.0.0.1 c15.zedo.com
+
+# [adform.net] — попандер сеть
+127.0.0.1 adform.net
+127.0.0.1 track.adform.net
+127.0.0.1 cm.adform.net
+
+# [traffic.rocks]
+127.0.0.1 traffic.rocks
+
+# [liveadexchanger.com]
+127.0.0.1 liveadexchanger.com
+
+# [fuckadblock.js CDNs]
+127.0.0.1 blockadblock.com
+127.0.0.1 detectadblock.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# SPAM / SCAM / ФИШИНГ РЕДИРЕКТЫ
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [malvertising redirects]
+127.0.0.1 go2.globaltrack.top
+127.0.0.1 get.adultgaming.cc
+127.0.0.1 r3.o.lencr.org
+127.0.0.1 click.traffic-media.co
+127.0.0.1 cdn.rawgit.com
+127.0.0.1 count.rbc.ru
+127.0.0.1 ads.adfox.me
+
+# [fake update popups]
+127.0.0.1 fakeupdate.net
+127.0.0.1 cdn.fakeupdate.net
+
+# [survey spam]
+127.0.0.1 survey.g.doubleclick.net
+127.0.0.1 api.surveymonkey.com
+127.0.0.1 widget.surveymonkey.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# GIF/BANNER TRACKERS (1x1 пиксели, счётчики)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [email tracking pixels]
+127.0.0.1 trk.email.com
+127.0.0.1 click.email.com
+127.0.0.1 open.convertkit-mail.com
+127.0.0.1 link.mail.beehiiv.com
+127.0.0.1 track.mailerlite.com
+127.0.0.1 click.mailchimp.com
+127.0.0.1 list-manage.com
+127.0.0.1 mandrillapp.com
+127.0.0.1 r.post.linkedin.com
+127.0.0.1 sendgrid.net
+127.0.0.1 em.wix.com
+127.0.0.1 trk.klaviyo.com
+127.0.0.1 a.klaviyo.com
+
+# [banner impression trackers]
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 pixel.fetchback.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 ct.pinterest.com
+127.0.0.1 trk.pinterest.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ANDROID SYSTEM / SAMSUNG / XIAOMI BLOATWARE ADS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [samsung ads]
+127.0.0.1 samsungads.com
+127.0.0.1 adcontent.samsung.com
+127.0.0.1 dagent.samsung.com
+127.0.0.1 smetrics.samsung.com
+127.0.0.1 gts.samsungrs.com
+127.0.0.1 log-config.samsungrs.com
+127.0.0.1 nrd.samsungrs.com
+127.0.0.1 *.samsungcloud.com
+127.0.0.1 eu-omc.samsungcloud.com
+127.0.0.1 notice.samsung.com
+
+# [xiaomi / miui ads]
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 bigdata.gravity.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+
+# [oppo / realme / oneplus ads]
+127.0.0.1 ads.heytapmobi.com
+127.0.0.1 ams.heytapmobi.com
+127.0.0.1 tracking.heytapmobi.com
+127.0.0.1 iad.heytapmobi.com
+
+# [huawei ads]
+127.0.0.1 adservice.cloud.hicloud.com
+127.0.0.1 adsdk.hicloud.com
+127.0.0.1 logservice.cloud.hicloud.com
+
+# [vivo ads]
+127.0.0.1 ads.vivo.com.cn
+127.0.0.1 push.vivo.com.cn
+
+# [honor ads]
+127.0.0.1 adservice.hihonorcloud.com
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ДОПОЛНИТЕЛЬНЫЙ МОБИЛЬНЫЙ МУСОР
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# [liverail.com]
+127.0.0.1 liverail.com
+
+# [mobfox.com]
+127.0.0.1 sdk.mobfox.com
+127.0.0.1 my.mobfox.com
+
+# [receptiv.com]
+127.0.0.1 receptiv.com
+127.0.0.1 ads.receptiv.com
+
+# [conversantmedia.com]
+127.0.0.1 conversantmedia.com
+127.0.0.1 media.conversantmedia.com
+
+# [emxdgt.com]
+127.0.0.1 emxdgt.com
+
+# [synacormedia.com]
+127.0.0.1 synacormedia.com
+
+# [tremormedia.com]
+127.0.0.1 tremormedia.com
+127.0.0.1 cdns.tremormedia.com
+
+# [undertone.com]
+127.0.0.1 undertone.com
+127.0.0.1 cdn.undertone.com
+127.0.0.1 pro.undertone.com
+
+# [yume.com]
+127.0.0.1 yume.com
+127.0.0.1 cdn.yume.com
+
+# [turn.com]
+127.0.0.1 turn.com
+127.0.0.1 cdn.turn.com
+127.0.0.1 ad.turn.com
+
+# [retargeter.com]
+127.0.0.1 retargeter.com
+127.0.0.1 d.retargeter.com
+
+# [tapad.com]
+127.0.0.1 tapad.com
+127.0.0.1 beacon.tapad.com
+
+# [drawbridge.com]
+127.0.0.1 drawbridge.com
+
+# [the trade desk]
+127.0.0.1 thetradedesk.com
+127.0.0.1 match.adsrvr.org
+127.0.0.1 js.adsrvr.org
+
+# [liveramp.com]
+127.0.0.1 liveramp.com
+127.0.0.1 idsync.rlcdn.com
+127.0.0.1 sync.liveramp.com
+
+# [eyeota.com]
+127.0.0.1 eyeota.com
+127.0.0.1 data.eyeota.com
+
+# End of IngoZenz Personal DNS Filter
+# Updated: 2026-03-01 | Total: ~600+ entries
